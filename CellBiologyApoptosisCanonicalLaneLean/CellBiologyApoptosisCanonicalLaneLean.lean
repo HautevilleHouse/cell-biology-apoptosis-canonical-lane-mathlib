@@ -1,0 +1,13 @@
+import HautevilleHouse.CellBiologyApoptosisCanonicalLaneLean.ApoptosisSignalingPathway
+import HautevilleHouse.CellBiologyApoptosisCanonicalLaneLean.Bcl2FamilyDynamics
+import HautevilleHouse.CellBiologyApoptosisCanonicalLaneLean.CaspaseActivation
+import HautevilleHouse.CellBiologyApoptosisCanonicalLaneLean.MitochondrialPathway
+import HautevilleHouse.CellBiologyApoptosisCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace CellBiologyApoptosisCanonicalLaneLean
+
+-- This module aggregates the canonical lane for cell biology apoptosis.
+
+end CellBiologyApoptosisCanonicalLaneLean
+end HautevilleHouse
